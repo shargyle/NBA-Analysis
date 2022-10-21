@@ -2,8 +2,8 @@
 I'm gathering NBA player data from Basketball Reference for current players.
 
 ## scrape.ipynb
-- Scrape player data from basketball-reference.com
-- Current players, game stats
+- scrape player data from basketball-reference.com
+- current players, game stats
 - save as csv file
 
 ## nba.csv
